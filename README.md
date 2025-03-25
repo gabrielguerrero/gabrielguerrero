@@ -1,16 +1,16 @@
-## Hi there 👋
+``## Hi there 👋
+## Hi, Im Gabs 👋
+Venezuelan Software Engineer living in the UK, I enjoy creating great software and doing blogs, videos and talks. I am the creator of ngrx-traits, and I sometimes contribute to ngrx projects. Full Stack developer expert, I work with Angular, React, Node, .Net, Java and Kotlin.
+<div align="center">
+  <a href="[https://twitter.com/MarkoStDev](https://x.com/gabrieldgi)">🐦 Twitter</a> •
+  <a href="https://www.linkedin.com/in/gabriel-guerrero-3245295/">💼 LinkedIn</a> •
+  <a href="https://medium.com/@gabrieldavidguerrero">✍️ Blog</a>
+</div>
 
-<!--
-**gabrielguerrero/gabrielguerrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://ko-fi.com/gabsguerrero">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"  />
+  </a>  
+</div>
