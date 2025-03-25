@@ -1,6 +1,6 @@
 ``## Hi there 👋
 ## Hi, Im Gabs 👋
-Venezuelan Software Engineer living in the UK, I enjoy creating great software and doing blogs, videos and talks. I am the creator of ngrx-traits, and I sometimes contribute to ngrx projects. Full Stack developer expert, I work with Angular, React, Node, .Net, Java and Kotlin.
+Venezuelan Software Engineer living in the UK, I enjoy creating great software and doing blogs, videos and talks. I am the creator of ngrx-traits, and I sometimes contribute to ngrx projects. Full Stack Developer, I work with Angular, React, Node, .Net, Java and Kotlin.
 <div align="center">
   <a href="[https://twitter.com/MarkoStDev](https://x.com/gabrieldgi)">🐦 Twitter</a> •
   <a href="https://www.linkedin.com/in/gabriel-guerrero-3245295/">💼 LinkedIn</a> •
